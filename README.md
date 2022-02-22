@@ -1,1 +1,2 @@
 # gitgo
+new line
